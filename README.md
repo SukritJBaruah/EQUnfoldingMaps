@@ -1,4 +1,4 @@
-![Alt text](screen.jpg?raw=true "Optional Title")
+![Alt text](screen.JPG?raw=true "Optional Title")
 
 unfolding_app_template and UC San Diego/Coursera MOOC starter code
 ==================================================================
